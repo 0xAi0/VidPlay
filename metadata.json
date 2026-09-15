@@ -1,0 +1,6 @@
+{
+  "name": "Offline Video Vault",
+  "description": "YouTube-style offline video downloader and encrypted media vault with AES-256 storage, 1-30 day auto-expiration, built-in player, P2P torrent downloader, and custom folders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
